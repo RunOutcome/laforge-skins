@@ -21,7 +21,9 @@ la skin install library          # all of them
 2. It draws **both light and dark**.
 3. Original work only: no trademarks, logos or a franchise's look. Fonts
    under the SIL OFL or Apache-2.0, bundled with their licence.
-4. Add it to `collection.json`, check `la skin install ./skins/<name>`, and
-   open a pull request.
+4. Add it to `collection.json`, check `la skin check --strict ./skins/<name>`,
+   and open a pull request.
+
+The full rules and steps are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Skins here are Apache-2.0 unless their folder says otherwise.
